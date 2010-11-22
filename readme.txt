@@ -1,4 +1,4 @@
-=== CMS Tree Page View ===
+=== FourSquare Recent Checkins ===
 Contributors: eskapism, MarsApril
 Donate link: http://eskapism.se/sida/donate/
 Tags: forusquare, checkins, check-ins, check ins, four square, maps
