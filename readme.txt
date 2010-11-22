@@ -1,7 +1,7 @@
 === FourSquare Recent Checkins ===
 Contributors: eskapism, MarsApril
 Donate link: http://eskapism.se/sida/donate/
-Tags: forusquare, checkins, check-ins, check ins, four square, maps
+Tags: FourSquare, checkins, check-ins, check ins, Four Square, 4sq, maps, widget
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: trunk
