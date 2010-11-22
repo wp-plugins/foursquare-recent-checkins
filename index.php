@@ -8,7 +8,6 @@ Version: 1
 Author URI: http://eskapism.se/
 */
 
-
 /* widget code starts here */
 class FourSquare_Recent_Checkins_Widget extends WP_Widget {
 	function FourSquare_Recent_Checkins_Widget() {

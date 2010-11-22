@@ -24,8 +24,9 @@ Customiziable through CSS. Make it look the way you want.
 
 == Screenshots ==
 
-1. How the recent check-ins look at my blog
-2. Yep. You can customize some stuff too.
+1. Your recent FourSquare check-ins can look like this ...
+1. ... or your FourSquare check-ins can look like this. It's all up to you and your CSS-skils.
+3. Yep. You can customize some stuff too.
 
 == Changelog ==
 
