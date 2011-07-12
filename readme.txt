@@ -10,6 +10,8 @@ A widget that show your 5 most recent checkins at FourSquare. And on a map too. 
 
 == Description ==
 
+** This plugin will no longer be updated. **
+
 Show your 5 most recent checkins at FourSquare with this widget, including name, your comment, 
 and a map showing where the checkin was.
 
